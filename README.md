@@ -16,4 +16,4 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawaki-zexi&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
 </div>
 
-如果你也在做 AI 工具，欢迎从项目里认识我。
+
