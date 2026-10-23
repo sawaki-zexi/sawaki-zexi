@@ -1,14 +1,10 @@
-# Hello everyone, 泽熙です。
+# Hi there, 👋, 泽熙です 😊.
 
-我是一名独立开发者，目前专注于 **AI Agent 领域**。
+[![GitHub](https://img.shields.io/github/followers/sawaki-zexi?label=GitHub&style=flat-square&logo=github)](https://github.com/sawaki-zexi)
+[![hits](https://komarev.com/ghpvc/?username=sawaki-zexi&label=hits&color=brightgreen&style=flat-square)](https://github.com/sawaki-zexi)
+[![LetterMate](https://img.shields.io/badge/LetterMate-0f766e?style=flat-square&logo=typescript&logoColor=white)](https://github.com/sawaki-zexi/LetterMate)
+[![DanmuAI](https://img.shields.io/badge/DanmuAI-7c3aed?style=flat-square&logo=python&logoColor=white)](https://github.com/sawaki-zexi/danmuai)
 
-## 联系我
+I'd like to build useful **AI agents** rather than boring demos :)
 
-📧 [2785880268@qq.com](mailto:2785880268@qq.com)
-
-## GitHub
-
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sawaki-zexi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawaki-zexi&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
-</div>
+Contact me: [2785880268@qq.com](mailto:2785880268@qq.com)
